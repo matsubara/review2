@@ -6,6 +6,14 @@
 //  Copyright © 2017 Mauricio Matsubara. All rights reserved.
 //
 
+/*
+ 
+ 1. print your name
+ 2. print your name twice
+ 3. print your name 100 times
+ 
+ */
+
 #include <iostream>
 
 int main(int argc, const char * argv[]) {
